@@ -988,11 +988,3 @@ Tempo típico:
 Algo assim impressiona muito:
 
 > “This system is highly available, horizontally scalable, avoids single points of failure and can support trillions of URLs using Base62 encoding with distributed token allocation.”
-
----
-
-💡 Se quiser, posso também te mostrar:
-
-* **como FAANG espera que você desenhe esse sistema no quadro**
-* **uma resposta completa de 10 minutos que passa em entrevistas**
-* **os 15 problemas de System Design mais comuns em Big Tech**.
