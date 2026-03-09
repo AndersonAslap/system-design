@@ -2,6 +2,10 @@
 
 ---
 
+## 📸 Preview da explicação
+
+![Preview](./imgs/mapa-banco-de-dados.png)
+
 ## 🧠 Introdução
 
 Ao projetar sistemas escaláveis, uma das decisões mais importantes é a **escolha do banco de dados**. Embora diferentes bancos de dados consigam atender aos mesmos **requisitos funcionais**, a escolha correta impacta diretamente os **requisitos não funcionais**, como:
